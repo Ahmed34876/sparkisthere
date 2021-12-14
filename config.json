@@ -1,0 +1,6 @@
+{
+	"ip":"mcspark.aternos.me",
+	"port": "25565",
+	"name": "sparkbot",
+	"auto-night-skip":"False"
+}
